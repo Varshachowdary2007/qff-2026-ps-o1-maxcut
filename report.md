@@ -2,7 +2,7 @@
 
 **Problem Statement:** PS-O1 — Max-Cut on Weighted Graphs
 **Track:** Quantum Optimization
-**Team:** [Your Name / Team Name]
+**Team:** Team Rack
 
 ---
 
