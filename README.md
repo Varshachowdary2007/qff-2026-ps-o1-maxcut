@@ -2,7 +2,7 @@
 
 **Track:** Quantum Optimization
 **Problem Statement:** PS-O1 — Max-Cut using QAOA
-**Team:** Varshachowdary2007
+**Team:** Team Rack
 
 ## What This Project Does
 
