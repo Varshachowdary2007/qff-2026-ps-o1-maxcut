@@ -1,0 +1,8 @@
+Metric,Processor_A,Processor_B
+Approximation ratio,N/A (5 qubits insufficient),1.000
+Best cut weight,N/A,18
+Optimal cut probability,N/A,0.0049
+Circuit depth,N/A,50
+Two-qubit gates (CX),N/A,12
+SWAP count,N/A,0
+Physical qubits used,5,9
