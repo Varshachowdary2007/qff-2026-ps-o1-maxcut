@@ -1,0 +1,8 @@
+qiskit
+qiskit-aer
+qiskit-optimization
+networkx
+matplotlib
+pandas
+scipy
+pylatexenc
